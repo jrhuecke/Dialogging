@@ -2,28 +2,24 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "Tell me, O muse, of that super very cool hero who travelled not that far after he had sacked the famous town of Cowell.",
 			"newSpeaker" : "true"
 		},
 		{
-			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"speaker" : "minerva",
+			"dialog" : "No, thank you.",
+			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
-		},
-		{	
-			"speaker" : "homer",
-			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion."
-		},
-		{	
-			"speaker" : "homer",
-			"dialog" : "So the gods prevented them from ever reaching home."
-		},
-		{	
-			"speaker" : "homer",
-			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
+			"speaker" : "minerva",
+			"dialog" : "jk yea sure"
+		}
+	],
+	[
+		{
+			"speaker" : "jove",
+			"dialog" : "Yo what's up?",
+			"newSpeaker" : "true"
 		}
 	],
 	[
